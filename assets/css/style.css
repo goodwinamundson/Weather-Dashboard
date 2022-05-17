@@ -1,0 +1,52 @@
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+#weatherContent {
+    display: none;
+}
+
+.navbar {
+    height: 150px!important;
+    background-image: linear-gradient(to right, rgb(0, 183, 255), blue);
+}
+
+#cityDetail,
+#uvIndexColor,
+li {
+    color: white;
+}
+
+#searchResults,
+#cityDetail,
+.card {
+    background-color: white;
+}
+
+#searchResults {
+    height: 100vh;
+}
+
+#fiveDay .card {
+    border: 1px solid black!important;
+}
+
+#searchHistory li {
+    background-color: white;
+    color: black!important;
+}
+
+p {
+    color: black;
+}
+
+
+
+h2, h3, h4, h5 {
+    color: black;
+}
+
+body {
+    background-color: white;
+}
