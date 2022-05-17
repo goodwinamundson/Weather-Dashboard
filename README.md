@@ -26,7 +26,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-##Deployed Application: https://goodwinamundson.github.io/weather-dashboard/
+##Deployed Application: https://goodwinamundson.github.io/Weather-Dashboard/
 
 
 <img src="./assets/images/one-city.png" />
