@@ -1,6 +1,6 @@
 <h1 align="center">Weather Dashboard<h1>
 
-## The purpose of this project was to allow users to see the weather forecast for different cities so can plan for their travels. Using [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for the cities searched.  The cities searched are then saved in `localStorage` up to five cities.
+#### The purpose of this project was to allow users to see the weather forecast for different cities so can plan for their travels. Using [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for the cities searched.  The cities searched are then saved in `localStorage` up to five cities.
 
 ## User Story
 
